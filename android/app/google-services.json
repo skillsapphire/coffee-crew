@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "689617805893",
+    "firebase_url": "https://coffee-crew-ef36a.firebaseio.com",
+    "project_id": "coffee-crew-ef36a",
+    "storage_bucket": "coffee-crew-ef36a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689617805893:android:fc5ee08a95553728bf792c",
+        "android_client_info": {
+          "package_name": "com.side.funapps.coffee_crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689617805893-f3rk028ederi7nfi9dcu0onk4kj1dc08.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg7e5pjTQcZ8nMxD_M2CMyJLtYb2yF1K0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689617805893-f3rk028ederi7nfi9dcu0onk4kj1dc08.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

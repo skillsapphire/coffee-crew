@@ -1,0 +1,8 @@
+Install dart and Flutter extension.
+Press ctl + shift + p -> Flutter new project
+Enter a name and choose location, project will be created.
+Install android studio and create an emulator (prefer nexus 6 with pie android)
+than run flutter run or press F5 on main.dart
+
+User provider for state management in flutter.
+https://www.youtube.com/watch?v=j_SJ7XmT2MM&list=PL4cUxeGkcC9j--TKIdkb3ISfRbJeJYQwC&index=8
